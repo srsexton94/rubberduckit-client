@@ -2,6 +2,11 @@
 # RubberDuck It: Client Side
 A front end application for the RubberDuck It Project.
 
+## Project Links
+* [Back End Repo](https://github.com/srsexton94/rubberduckit-api)
+* [Front End Deploy](https://srsexton94.github.io/rubberduckit-client)
+* [Back End Deploy](https://rubberduckit-api.herokuapp.com/)
+
 ## Dependencies (Set up & Installation)
 * [GA React Auth Template](https://git.generalassemb.ly/ga-wdi-boston/react-auth-template) includes linters, SCSS compiler, Webpack config, NPM scripts, authentication components/routes,
 * `git init`, `git add`, `git commit`
